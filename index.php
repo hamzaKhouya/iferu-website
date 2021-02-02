@@ -1135,7 +1135,7 @@ livres de non-fiction</h1>
 
 
     
-    <img src="data:image/gif;base64,R0lGODlhAgADAIAAAGdwtWdwtSH5BAEKAAEALAAAAAACAAMAAAICjF8AOw==" data-src="/summary-img/39481-K8Y6023C.jpg?s=S&amp;d=standard" alt="Get shit done" class="scover scover--book scover--s lazyload">
+    <img src="http://iferu.com/summary-img/39481.jpg"  alt="Get shit done" class="scover scover--book scover--s lazyload">
   </a>
       
   </div>
@@ -1187,7 +1187,7 @@ livres de non-fiction</h1>
 
 
     
-    <img src="data:image/gif;base64,R0lGODlhAgADAIAAAGdwtWdwtSH5BAEKAAEALAAAAAACAAMAAAICjF8AOw==" data-src="/summary-img/38883-KC0MQB54.jpg?s=S&amp;d=standard" alt="Comprendre comment achètent les clients" class="scover scover--book scover--s lazyload">
+    <img src="http://iferu.com/summary-img/38883.jpg" alt="Comprendre comment achètent les clients" class="scover scover--book scover--s lazyload">
   </a>
       
   </div>
@@ -1239,7 +1239,7 @@ livres de non-fiction</h1>
 
 
     
-    <img src="data:image/gif;base64,R0lGODlhAgADAIAAAGdwtWdwtSH5BAEKAAEALAAAAAACAAMAAAICjF8AOw==" data-src="/summary-img/39488-K8Y7L7YO.jpg?s=S&amp;d=standard" alt="Management : Le manuel complet du management" class="scover scover--book scover--s lazyload">
+    <img src="http://iferu.com/summary-img/39488.jpg"  alt="Management : Le manuel complet du management" class="scover scover--book scover--s lazyload">
   </a>
       
   </div>
@@ -1291,7 +1291,7 @@ livres de non-fiction</h1>
 
 
     
-    <img src="data:image/gif;base64,R0lGODlhAgADAIAAAGdwtWdwtSH5BAEKAAEALAAAAAACAAMAAAICjF8AOw==" data-src="/summary-img/38730-K5WLSDH4.jpg?s=S&amp;d=standard" alt="Développement accéléré du leadership" class="scover scover--book scover--s lazyload">
+    <img src="http://iferu.com/summary-img/38730.jpg"  alt="Développement accéléré du leadership" class="scover scover--book scover--s lazyload">
   </a>
       
   </div>
@@ -1343,7 +1343,7 @@ livres de non-fiction</h1>
 
 
     
-    <img src="data:image/gif;base64,R0lGODlhAgADAIAAAGdwtWdwtSH5BAEKAAEALAAAAAACAAMAAAICjF8AOw==" data-src="/summary-img/39136-K7FYGDM8.jpg?s=S&amp;d=standard" alt="Mettez de l’ordre dans votre vie" class="scover scover--book scover--s lazyload">
+    <img src="http://iferu.com/summary-img/39136.jpg" alt="Mettez de l’ordre dans votre vie" class="scover scover--book scover--s lazyload">
   </a>
       
   </div>
